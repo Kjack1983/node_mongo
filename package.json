@@ -1,0 +1,16 @@
+{
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "description": "Node mongodb example",
+  "main": "Ioannis Martakis",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.6.9"
+  }
+}
